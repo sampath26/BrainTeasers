@@ -1,0 +1,1 @@
+It is real hard to remove the duplicate strings from the real sentences and hard to write the words in the same sequence
